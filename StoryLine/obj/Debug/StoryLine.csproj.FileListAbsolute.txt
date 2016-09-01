@@ -1,0 +1,6 @@
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\StoryLine\StoryLine\obj\Debug\StoryLine.csprojResolveAssemblyReference.cache
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\StoryLine\StoryLine\bin\Debug\StoryLine.exe.config
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\StoryLine\StoryLine\bin\Debug\StoryLine.exe
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\StoryLine\StoryLine\bin\Debug\StoryLine.pdb
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\StoryLine\StoryLine\obj\Debug\StoryLine.exe
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\StoryLine\StoryLine\obj\Debug\StoryLine.pdb
